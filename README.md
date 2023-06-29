@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Daniel Zagar</h1>
 <h3 align="center">Full Stack Software Developer. IT Professional.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dzagar88&label=Profile%20views&color=0e75b6&style=flat" alt="dzagar88" /> </p>
-
 - 🔭 I’m currently working on [HomeChef](https://github.com/4GeeksAcademy/dzagar88-HomeChef/tree/presentation-backup)
 
 - 👨‍💻 All of my projects are available at [https://github.com/dzagar88](https://github.com/dzagar88)
